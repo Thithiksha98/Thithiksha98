@@ -33,7 +33,7 @@ Welcome to my GitHub profile! I'm a skilled developer with a broad range of expe
 
 ## 📣 Get In Touch
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:thithikshabasuvoju@gmail.com)
+[![](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:thithikshabasuvoju@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-000000?style=flat&logo=github&logoColor=white)](https://github.com/Thithiksha98)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thithiksha-basuvoju-5822a320a)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/thithiksha987)
