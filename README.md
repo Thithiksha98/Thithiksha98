@@ -30,26 +30,13 @@ Welcome to my GitHub profile! I'm a skilled developer with a broad range of expe
 - *Resume Builder:* A tool to create and manage professional resumes.
 - *Finance Management:* A system for tracking and managing personal finances.
 - *Social Pulse Hub:* A platform for social interaction and engagement.
-
 ## 📣 Get In Touch
 
-<div style="margin-top: 10px; margin-left: 20px;">
-  <a href="mailto:thithikshabasuvoju@gmail.com">
-    <img src="https://img.shields.io/badge/-red?style=flat&logo=gmail&logoColor=white" alt="Email" style="margin-right: 10px;">
-  </a>
-  <a href="https://github.com/Thithiksha45">
-    <img src="https://img.shields.io/badge/-black?style=flat&logo=github&logoColor=white" alt="GitHub" style="margin-right: 10px;">
-  </a>
-  <a href="https://www.linkedin.com/in/thithiksha-basuvoju-5822a320a">
-    <img src="https://img.shields.io/badge/-blue?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" style="margin-right: 10px;">
-  </a>
-  <a href="https://www.instagram.com/thithiksha987">
-    <img src="https://img.shields.io/badge/-purple?style=flat&logo=instagram&logoColor=white" alt="Instagram" style="margin-right: 10px;">
-  </a>
-  <a href="https://t.me/Thithiksha666">
-    <img src="https://img.shields.io/badge/-blue?style=flat&logo=telegram&logoColor=white" alt="Telegram">
-  </a>
-</div>
+[![Email](https://img.shields.io/badge/-red?style=flat&logo=gmail&logoColor=white)](mailto:thithikshabasuvoju@gmail.com)
+[![GitHub](https://img.shields.io/badge/-black?style=flat&logo=github&logoColor=white)](https://github.com/Thithiksha45)
+[![LinkedIn](https://img.shields.io/badge/-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thithiksha-basuvoju-5822a320a)
+[![Instagram](https://img.shields.io/badge/-purple?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/thithiksha987)
+[![Telegram](https://img.shields.io/badge/-blue?style=flat&logo=telegram&logoColor=white)](https://t.me/Thithiksha666)
 Feel free to check out my repositories and reach out if you want to discuss tech or collaborate on a project!
 
 ## 💬 Fun Fact
