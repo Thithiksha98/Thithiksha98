@@ -33,11 +33,11 @@ Welcome to my GitHub profile! I'm a skilled developer with a broad range of expe
 
 ## 📣 Get In Touch
 
-[![Email](https://img.shields.io/badge/-Gmail-red?style=flat&logo=gmail&logoColor=white)](mailto:thithikshabasuvoju@gmail.com)
-[![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat&logo=github&logoColor=white)](https://github.com/Thithiksha98)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thithiksha-basuvoju-5822a320a)
-[![Instagram](https://img.shields.io/badge/-Instagram-purple?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/thithiksha987)
-[![Telegram](https://img.shields.io/badge/-Telegram-blue?style=flat&logo=telegram&logoColor=white)](https://t.me/Thithiksha666)
+[![Email](https://img.shields.io/badge/-red?style=flat&logo=gmail&logoColor=white)](mailto:thithikshabasuvoju@gmail.com)
+[![GitHub](https://img.shields.io/badge/-black?style=flat&logo=github&logoColor=white)](https://github.com/Thithiksha45)
+[![LinkedIn](https://img.shields.io/badge/-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thithiksha-basuvoju-5822a320a)
+[![Instagram](https://img.shields.io/badge/-purple?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/thithiksha987)
+[![Telegram](https://img.shields.io/badge/-blue?style=flat&logo=telegram&logoColor=white)](https://t.me/Thithiksha666)
 
 Feel free to check out my repositories and reach out if you want to discuss tech or collaborate on a project!
 
