@@ -33,7 +33,7 @@ Welcome to my GitHub profile! I'm a skilled developer with a broad range of expe
 
 ## 📣 Get In Touch
 
-<div style="margin-top: 10px;">
+<div style="margin-top: 10px; margin-left: 20px;">
   <a href="mailto:thithikshabasuvoju@gmail.com">
     <img src="https://img.shields.io/badge/-red?style=flat&logo=gmail&logoColor=white" alt="Email" style="margin-right: 10px;">
   </a>
@@ -50,7 +50,6 @@ Welcome to my GitHub profile! I'm a skilled developer with a broad range of expe
     <img src="https://img.shields.io/badge/-blue?style=flat&logo=telegram&logoColor=white" alt="Telegram">
   </a>
 </div>
-
 Feel free to check out my repositories and reach out if you want to discuss tech or collaborate on a project!
 
 ## 💬 Fun Fact
