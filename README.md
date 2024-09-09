@@ -12,24 +12,25 @@ Welcome to my GitHub profile! I'm a skilled developer with a broad range of expe
 
 ## 🛠️ Technologies & Tools
 
-- *Languages:* Java, C, C++, JavaScript
-- *Frontend:* HTML, CSS, React.js, Bootstrap
-- *Backend:* Servlets, Node.js, Express.js
-- *Databases:* MySQL, MongoDB
-- *Version Control:* Git
-- *DevOps:* Docker, Kubernetes
+- Languages: Java, C, C++, JavaScript
+- Frontend: HTML, CSS, React.js, Bootstrap
+- Backend: Servlets, Node.js, Express.js
+- Databases: MySQL, MongoDB
+- Version Control: Git
+- DevOps: Docker, Kubernetes
 
 ## 📈 My Projects
 
 ### MERN Stack Applications
-- *File Uploader:* A web application to upload files and manage them efficiently.
-- *Travellers Website:* A platform for travelers to share their experiences and connect with others.
+- File Uploader: A web application to upload files and manage them efficiently.
+- Travellers Website: A platform for travelers to share their experiences and connect with others.
 
 ### Java Projects
-- *Weather Application:* An application to provide real-time weather information.
-- *Resume Builder:* A tool to create and manage professional resumes.
-- *Finance Management:* A system for tracking and managing personal finances.
-- *Social Pulse Hub:* A platform for social interaction and engagement.
+- Weather Application: An application to provide real-time weather information.
+- Resume Builder: A tool to create and manage professional resumes.
+- Finance Management: A system for tracking and managing personal finances.
+- Social Pulse Hub: A platform for social interaction and engagement.
+
 ## 📣 Get In Touch
 
 [![Email](https://img.shields.io/badge/-red?style=flat&logo=gmail&logoColor=white)](mailto:thithikshabasuvoju@gmail.com)
@@ -37,6 +38,7 @@ Welcome to my GitHub profile! I'm a skilled developer with a broad range of expe
 [![LinkedIn](https://img.shields.io/badge/-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thithiksha-basuvoju-5822a320a)
 [![Instagram](https://img.shields.io/badge/-purple?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/thithiksha987)
 [![Telegram](https://img.shields.io/badge/-blue?style=flat&logo=telegram&logoColor=white)](https://t.me/Thithiksha666)
+
 Feel free to check out my repositories and reach out if you want to discuss tech or collaborate on a project!
 
 ## 💬 Fun Fact
