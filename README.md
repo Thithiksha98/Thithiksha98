@@ -35,7 +35,7 @@ Welcome to my GitHub profile! I'm a skilled developer with a broad range of expe
 
 - 📧 Email: [thithikshabasuvoju@gmail.com](mailto:thithikshabasuvoju@gmail.com)
 - 🌐 GitHub: [Thithiksha45](https://github.com/Thithiksha98)
-- 🔗 LinkedIn: https://www.linkedin.com/in/thithiksha-basuvoju-5822a320a
+- 🔗 LinkedIn: [Let make a connection here]https://www.linkedin.com/in/thithiksha-basuvoju-5822a320a
 - 📸 Instagram: [Instagram Profile](https://www.instagram.com/thithiksha987)
 - 💬 Telegram: [Telegram Profile](https://t.me/Thithiksha666)
 
