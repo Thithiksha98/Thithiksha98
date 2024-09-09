@@ -1,23 +1,48 @@
-# Hey there 👋
-<h2>I'm Thithiksha</h2>
+# <div style="animation: move 10s linear infinite;">Hello, I'm Thithiksha 👋</div>
 
-❤️ Glad to see you here ❤️
+Welcome to my GitHub profile! I'm a skilled developer with a broad range of expertise in both coding and web development. Here's a little more about what I do:
 
----
+## 🚀 About Me
 
-### About Me
-- 🌐 *Role:* Web Developer 
-- 🎓 *Education:* Btech,2024 graduate from Swarna Bharathi Institute of Science and Technology
-- 🖥️ *Experience:* Former Full Stack Developer @MERN
-- 💬 *More About Me:* Visit my [website](https://thithiksha.com)
+- 🌍 Based in Web Development
+- 🎓 BTech in Computer Science-2024, Graduated from Swarna Bharathi Institute of Science and Technology
+- 💻 Proficient in Java, C, C++, and full-stack web development
+- 🎓 Experienced in Java and MERN stack development, covering both front-end and back-end technologies
+- 📚 Passionate about exploring new technologies and improving my skills
 
----
+## 🛠️ Technologies & Tools
 
-### Let's Connect
+- *Languages:* Java, C, C++, JavaScript
+- *Frontend:* HTML, CSS, React.js, Bootstrap
+- *Backend:* Servlets, Node.js, Express.js
+- *Databases:* MySQL, MongoDB
+- *Version Control:* Git
+- *DevOps:* Docker, Kubernetes
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-linkedin) 
-- [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/your-linkedin](https://www.linkedin.com/in/thithiksha-basuvoju-5822a320a)) 
-- [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/your-twitter) 
-- [![Website](https://img.shields.io/badge/-Website-4285F4?style=flat-square&logo=google-chrome&logoColor=white)](https://thithiksha.com) 
-- [![Telegram](https://img.shields.io/badge/-Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white)](https://telegram.me/your-telegram) 
+## 📈 My Projects
 
+### MERN Stack Applications
+- *File Uploader:* A web application to upload files and manage them efficiently.
+- *Travellers Website:* A platform for travelers to share their experiences and connect with others.
+
+### Java Projects
+- *Weather Application:* An application to provide real-time weather information.
+- *Resume Builder:* A tool to create and manage professional resumes.
+- *Finance Management:* A system for tracking and managing personal finances.
+- *Social Pulse Hub:* A platform for social interaction and engagement.
+
+## 📣 Get In Touch
+
+- 📧 Email: [thithikshabasuvoju@gmail.com](mailto:thithikshabasuvoju@gmail.com)
+- 🌐 GitHub: [Thithiksha45](https://github.com/Thithiksha98)
+- 🔗 LinkedIn: [Your LinkedIn Profile]([https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/thithiksha-basuvoju-5822a320a))
+- 📸 Instagram: [Your Instagram Profile](https://www.instagram.com/thithiksha987)
+- 💬 Telegram: [Your Telegram Profile](https://t.me/Thithiksha666)
+
+Feel free to check out my repositories and reach out if you want to discuss tech or collaborate on a project!
+
+## 💬 Fun Fact
+
+- I enjoy taking on new challenges and expanding my knowledge across different areas of technology!
+
+Thanks for visiting my profile! 😊
